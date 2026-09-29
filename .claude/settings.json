@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(//z/aws/vai/**)",
+      "Edit(//z/aws/vai/**)",
+      "Write(//z/aws/vai/**)"
+    ]
+  }
+}
